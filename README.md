@@ -17,5 +17,7 @@
 ![3D_xyz1](https://github.com/Tomaspaa/Tomaspaa-Tietoliikenteen_Sovellusprojekti/assets/118254112/e89baba7-eb44-4c62-af47-64f35af2ebd9)
 
 
+## License
+This page is using MIT license. Details: https://github.com/Tomaspaa/Tomaspaa-Tietoliikenteen_Sovellusprojekti/blob/main/LICENSE
 
 
