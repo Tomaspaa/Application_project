@@ -4,7 +4,9 @@
 
 
 ## Description
->Aloitimme tekemällä ohjelman nRF alustalle joka lähettää kiihtyvyysanturi dataa bluetoothilla puhelimeen. Sen jälkeen teimme ohjelman Raspberrylle, joka vastaanottaa dataa nRF alustalta Bluetoothilla ja kirjoittaa vastaanotetut datat MySQL-palvelimelle. Seuraavaksi koodasimme pythonilla opetusalgoritmin, joka kertoo 6 keskipistettä. Opetettua dataa oli tarkoitus käyttää ohjelmaan, joka kertoisi reaali ajassa missä asennossa kiihtyvyysanturi on, tämä jäi tekemättä.
+>The first goal was to make code for Raspberry Pi that gets accelerometer data from nRF via Bluetooth then connects to MySQL and sends that data into the table, we made that work. After that, we started to do Algorithm that will learn centralpoints and with taught points it should tell which way accelerometer is. We run out of time so we just make algorithm that show centralpoints, picture 2.
+>We also made webpage that uses caatas REST API to give random cat picture, goal for that was to learn more linux 
+
 
 
 ## Architectural image
