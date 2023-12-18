@@ -1,4 +1,4 @@
-# Telecommunication Application Project
+# Telecommunications Application project
 >Tomas Paananen\
 >Jani Heikkilä
 
